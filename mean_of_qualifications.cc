@@ -25,7 +25,7 @@ void mean_calculator(int n, float * A)
     {
         sum += A[i];
     }
-    cout << "The mean of the qualifications are: " << sum/n << endl;
+    cout << "The mean of the qualifications is: " << sum/n << endl;
 }
 
 int main()
